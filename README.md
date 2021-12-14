@@ -2,6 +2,7 @@
 The code and video for final project of INFSCI 2140
 
 Team member:
+
 Shu-Kai Liao (shl197@pitt.edu)
 
 Zian Wang (ziw42@pitt.edu)
